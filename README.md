@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" autoplay src="https://www.icegif.com/wp-content/uploads/2021/11/icegif-374.gif"  />
+<img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2021/11/icegif-374.gif"  />
 
 ###
 
@@ -60,17 +60,17 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="30" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="50" height="30" alt="codepen logo"  />
+  <a href="mailto:gayush794@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="30" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/aayush-gupta-b17758130/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
 
-<br clear="both">
 
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/kamehamehaa0000/count.svg?"  />
