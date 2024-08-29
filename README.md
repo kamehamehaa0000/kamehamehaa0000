@@ -1,4 +1,3 @@
-<h2 align="left">Hi 👋! I'm Aayush Gupta and I am a Software Engineer</h2>
 
 ###
 
